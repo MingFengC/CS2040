@@ -1,0 +1,17 @@
+/**
+ * Name         :
+ * Matric. No   :
+*/
+
+import java.util.*;
+
+public class Accounting {
+    private void run() {
+        // implement your "main" method here
+    }
+
+    public static void main(String args[]) {
+        Accounting runner = new Accounting();
+        runner.run();
+    }
+}
